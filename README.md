@@ -106,14 +106,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaimulhaque&theme=onedark&column=6&margin-w=15"/>
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - 🚀 Build 5+ End-to-End Data Analytics & BI Portfolio Projects
