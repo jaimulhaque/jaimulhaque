@@ -158,7 +158,7 @@
   <a href="https://www.tiktok.com/@jaimulhaquee" target="_blank">
     <img src="https://img.shields.io/badge/Education_Content-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="YOUR_YOUTUBE_URL" target="_blank">
+  <a href="https://www.youtube.com/@jaimulhaque2.0/featured" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="mailto:jaimulhaque869@gmail.com">
