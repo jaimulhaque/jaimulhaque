@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaimul Haque</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;AI+Research+Learner;Computer+Vision+Explorer;Professional+Video+Editor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Data+Visualization+Specialist;SQL+%26+Python+Data+Analytics;Business+Intelligence+Explorer;Professional+Video+Editor" />
 </p>
 
 <p align="center">
-  Passionate about Data Analytics, Machine Learning, Computer Vision, and AI Research.<br>
-  I enjoy transforming data into insights, building intelligent AI solutions, and continuously expanding my technical skills.
+  Passionate Data Analyst skilled in transforming raw data into actionable business insights.<br>
+  I specialize in Data Cleaning, Exploratory Data Analysis (EDA), SQL Querying, and Interactive Dashboard Building.
 </p>
 
 <p align="center">
@@ -18,49 +18,39 @@
 # 🚀 About Me
 
 - 🎓 Final Year B.Sc. in Computer Science & Engineering
-- 📊 Aspiring **Data Analyst** with a passion for solving real-world problems through data
-- 🤖 Building projects in **Machine Learning, Deep Learning, Computer Vision & Explainable AI (XAI)**
-- 💻 Experienced with **Python, SQL, Data Analytics, Git & GitHub**
-- 📄 Interested in **AI Research, Open Source & Intelligent Systems**
-- 📈 Learning Data Visualization, Business Intelligence & Predictive Analytics
+- 📊 Aspiring **Data Analyst** solving real-world business problems through data-driven decisions
+- 💻 Proficient in **Python, SQL, Pandas, NumPy, Power BI, Excel & Git**
+- 📈 Focus Areas: **Exploratory Data Analysis (EDA), Business Intelligence & Predictive Analytics**
+- 📄 Interested in **Data Analytics, Open Source & Intelligent Insights**
 - 🎬 Professional **Video Editor** & Digital Content Creator
 - ⚽ Football Storytelling Creator
 - 📚 Education Content Creator
-- 🌱 Always learning, building, and improving
+- 🌱 Always learning, querying, visualizing, and improving
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack & Data Tools
 
-### 📊 Data Analytics & Databases
+### 📊 Data Analysis & Visualization
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,mysql" /><br><br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🤖 AI & Machine Learning
+### 💻 Analytics Environments & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,anaconda" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><br>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Explainable_AI-XAI-success?style=for-the-badge"/>
-</p>
-
-### 💻 Programming & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" /><br><br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ### 🎬 Creative Tools
@@ -74,23 +64,28 @@
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Featured Data Analytics Projects
 
-### 🫁 PneumoXNet
-> **A Deep Learning Framework for Pneumonia Detection using Chest X-ray Images**
-- 🧠 Custom Deep Learning Architecture
-- 🔥 Explainable AI (Grad-CAM Integration)
-- 📊 Comprehensive Evaluation (Accuracy, ROC Curve, Confusion Matrix)
-- 📄 Research-Oriented Implementation
+### 📈 E-Commerce Sales Performance & Customer Analytics
+> **End-to-End Data Analysis, SQL Querying & Power BI Dashboard**
+- 🧹 **Data Cleaning & Preprocessing:** Cleaned 50K+ transactional records using Python (Pandas) and SQL.
+- 📊 **Exploratory Data Analysis (EDA):** Identified top-performing product categories, revenue trends, and customer retention patterns.
+- 💡 **Dashboard & Storytelling:** Built an interactive **Power BI Dashboard** highlighting Monthly Sales, Regional Performance, and Churn Indicators.
 
 ---
 
-### 📊 Data Analytics & BI Projects
-> **End-to-End Data Insights & Business Intelligence Solutions**
-- Data Cleaning, Manipulation & Preprocessing
-- Exploratory Data Analysis (EDA) & Visualization
-- Complex SQL Queries & Database Management
-- Interactive Dashboards & Predictive Modeling
+### 🫁 Healthcare Data Analysis & PneumoXNet
+> **Data Insights & Explainable AI for Healthcare Imaging**
+- 🧠 Analyzed Chest X-ray image distribution and model classification metrics.
+- 🔥 Integrated **Explainable AI (Grad-CAM)** to visualize diagnostic heatmaps for medical interpretation.
+- 📊 Evaluated performance using ROC-AUC Curves, Precision-Recall Metrics, and Confusion Matrices.
+
+---
+
+### 🔍 SQL Customer Churn & Segmentation Analysis
+> **Advanced SQL Querying & Business Intelligence Insights**
+- 🗄️ Used Complex SQL queries (CTEs, Window Functions, Group By) to segment customers based on purchase behavior.
+- 📉 Analyzed key factors leading to customer churn and delivered data-backed recommendations.
 
 ---
 
@@ -106,11 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaimulhaque&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jaimulhaque/jaimulhaque/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimulhaque&theme=github-compact&hide_border=true"/>
 </p>
 
 ---
@@ -118,18 +109,17 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaimulhaque&theme=algolia&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=jaimulhaque&theme=onedark&column=6&margin-w=15"/>
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-- 🚀 Publish End-to-End AI & Data Analytics Projects
-- 📄 Write & Publish Machine Learning Research Papers
-- 🤖 Master Deep Learning & Computer Vision Architectures
-- 📊 Build a High-Impact Data Analytics & BI Portfolio
-- 🌍 Actively Contribute to Open Source Projects
+- 🚀 Build 5+ End-to-End Data Analytics & BI Portfolio Projects
+- 📊 Master Advanced SQL Optimization & Power BI DAX Formulas
+- 📄 Publish Data Analytics & Applied AI Insights Articles
+- 🌍 Contribute to Open Source Data Analytics Initiatives
 
 ---
 
@@ -143,6 +133,7 @@
     <img src="https://img.shields.io/badge/Video_Editing_Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.tiktok.com/@jaimul.haque" target="_blank">
+    <img src="https://event.tiktok.com" target="_blank">
     <img src="https://img.shields.io/badge/Football_Content-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://www.tiktok.com/@jaimulhaquee" target="_blank">
@@ -159,9 +150,9 @@
 ---
 
 <p align="center">
-  <i>"Transforming data into insights, ideas into AI solutions, and continuous learning into meaningful impact."</i>
+  <i>"Transforming raw data into actionable insights and continuous learning into business impact."</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting! If you like my work, feel free to explore and star my repositories.
+  ⭐ Thanks for visiting! Feel free to explore my repositories.
 </p>
