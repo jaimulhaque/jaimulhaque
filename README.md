@@ -5,100 +5,165 @@ Aspiring Data Analyst • AI & Machine Learning Enthusiast • CSE Student
 </h3>
 
 <p align="center">
-Passionate about Data Analytics, Machine Learning, Computer Vision, and AI Research. I enjoy building practical projects, exploring data, and continuously improving my technical skills.
+Passionate about Data Analytics, Machine Learning, Computer Vision, and AI Research.
+I enjoy solving real-world problems through data, building AI solutions, and continuously learning new technologies.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=jaimulhaque&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 Final Year B.Sc. in Computer Science & Engineering
-- 📊 Learning **Data Analytics, Machine Learning & Deep Learning**
-- 🧠 Interested in **Computer Vision, Explainable AI (XAI), and AI Research**
+- 📊 Aspiring **Data Analyst** passionate about transforming data into meaningful insights
+- 🤖 Building **Machine Learning, Deep Learning & Computer Vision** projects
+- 🧠 Exploring **Explainable AI (XAI)** and AI Research
 - 💻 Working with **Python, SQL, PyTorch, Git & GitHub**
-- 📄 Building research-oriented and real-world projects
-- 🌱 Always learning new technologies and improving every day
+- 📄 Interested in **Research, Open Source & Real-World AI Applications**
+- 🎬 Professional **Video Editor** and Digital Content Creator
+- 🌱 Continuously learning, building, and improving every day
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 📊 Data Analytics
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-### AI / Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda" />
+</p>
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
 
 ---
 
-## 🌟 Featured Projects
+### 💻 Programming & Development
 
-### 🫁 PneumoXNet
-Deep learning model for pneumonia detection using Chest X-ray images with Explainable AI (Grad-CAM), comprehensive evaluation, and research-focused experimentation.
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
+</p>
+
+---
+
+### 🎬 Creative Tools
+
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+# 🌟 Featured Projects
+
+## 🫁 PneumoXNet
+
+Deep Learning model for **Pneumonia Detection** using Chest X-ray images with Explainable AI (Grad-CAM), comprehensive evaluation, and research-focused experimentation.
 
 ### 📊 Data Analytics Projects
-Exploratory Data Analysis, Data Cleaning, SQL, Dashboarding, and Machine Learning projects.
+
+Projects involving:
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- SQL Analysis
+- Dashboarding
+- Machine Learning
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=jaimulhaque&theme=merko&show_icons=true)
-
-![](https://streak-stats.demolab.com/?user=jaimulhaque&theme=merko)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaimulhaque&layout=compact&theme=merko)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jaimulhaque&theme=algolia&margin-w=10)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=jaimulhaque&theme=github-compact)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![Instagram](https://img.shields.io/badge/Portfolio-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/starmediaaa/)
-
-[![TikTok](https://img.shields.io/badge/Football_Content-TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@jaimul.haque)
-
-[![TikTok](https://img.shields.io/badge/Education_Content-TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@jaimulhaquee)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimulhaque869@gmail.com)
-
----
+# 📈 GitHub Stats
 
 <p align="center">
 
-> **"Learning continuously. Building impactful AI solutions. Sharing knowledge through technology."**
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=jaimulhaque&show_icons=true&theme=merko"/>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jaimulhaque&layout=compact&theme=merko"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=jaimulhaque&theme=merko"/>
 
 </p>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=jaimulhaque&style=for-the-badge)
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaimulhaque&theme=algolia&margin-w=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaimulhaque&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/starmediaaa/">
+<img src="https://img.shields.io/badge/Video_Editing_Portfolio-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@jaimul.haque">
+<img src="https://img.shields.io/badge/Football_Content-TikTok-000000?style=for-the-badge&logo=tiktok"/>
+</a>
+
+<a href="https://www.tiktok.com/@jaimulhaquee">
+<img src="https://img.shields.io/badge/Education_Content-TikTok-000000?style=for-the-badge&logo=tiktok"/>
+</a>
+
+<a href="YOUR_YOUTUBE_LINK">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="mailto:jaimulhaque869@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+> **"Transforming data into insights, ideas into AI solutions, and learning into impact."**
+
+</p>
