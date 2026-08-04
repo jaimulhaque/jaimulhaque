@@ -1,64 +1,104 @@
 <h1 align="center">Hi 👋, I'm Jaimul Haque</h1>
-<h3 align="center">CSE Student • Aspiring Data Analyst • Video Editor • Content Creator</h3>
+
+<h3 align="center">
+Aspiring Data Analyst • AI & Machine Learning Enthusiast • CSE Student
+</h3>
 
 <p align="center">
-  Passionate about Data Analytics, Machine Learning, AI, and creating engaging digital content.
+Passionate about Data Analytics, Machine Learning, Computer Vision, and AI Research. I enjoy building practical projects, exploring data, and continuously improving my technical skills.
 </p>
 
-<br>
+---
 
 ## 🚀 About Me
 
-- 🎓 CSE Student
-- 📊 Learning **Data Analytics, Machine Learning & AI**
-- 💻 Building projects with **Python, SQL, Git & GitHub**
-- 📄 Interested in **Research & Open Source**
-- 🎥 Professional **Video Editor**
-- ⚽ Football Storytelling Content Creator
-- 📚 Education Content Creator
-- 🌱 Always learning and building something new
+- 🎓 Final Year B.Sc. in Computer Science & Engineering
+- 📊 Learning **Data Analytics, Machine Learning & Deep Learning**
+- 🧠 Interested in **Computer Vision, Explainable AI (XAI), and AI Research**
+- 💻 Working with **Python, SQL, PyTorch, Git & GitHub**
+- 📄 Building research-oriented and real-world projects
+- 🌱 Always learning new technologies and improving every day
 
-<br>
+---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode,jupyter" />
-</p>
+### Languages
 
-<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### AI / Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+---
+
+## 🌟 Featured Projects
+
+### 🫁 PneumoXNet
+Deep learning model for pneumonia detection using Chest X-ray images with Explainable AI (Grad-CAM), comprehensive evaluation, and research-focused experimentation.
+
+### 📊 Data Analytics Projects
+Exploratory Data Analysis, Data Cleaning, SQL, Dashboarding, and Machine Learning projects.
+
+---
+
+## 📈 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=jaimulhaque&theme=merko&show_icons=true)
+
+![](https://streak-stats.demolab.com/?user=jaimulhaque&theme=merko)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaimulhaque&layout=compact&theme=merko)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jaimulhaque&theme=algolia&margin-w=10)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=jaimulhaque&theme=github-compact)
+
+---
 
 ## 🌐 Connect With Me
 
-<p>
-  <a href="https://www.instagram.com/starmediaaa/" target="_blank">
-    <img src="https://img.shields.io/badge/Video%20Editing%20Portfolio-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
 
-  <a href="https://www.tiktok.com/@jaimul.haque" target="_blank">
-    <img src="https://img.shields.io/badge/Football%20Content-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
+[![Instagram](https://img.shields.io/badge/Portfolio-Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/starmediaaa/)
 
-  <a href="https://www.tiktok.com/@jaimulhaquee" target="_blank">
-    <img src="https://img.shields.io/badge/Education%20Content-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
+[![TikTok](https://img.shields.io/badge/Football_Content-TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@jaimul.haque)
 
-<br>
+[![TikTok](https://img.shields.io/badge/Education_Content-TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@jaimulhaquee)
 
-> **"Building with code. Creating with stories. Learning every day."** 🚀
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jimmy.99212/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@jaimulhaque2.0)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaimulhaque869@gmail.com) 
-
-# 💻 Tech Stack:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jaimulhaque&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jaimulhaque&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaimulhaque&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimulhaque869@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jaimulhaque&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+
+> **"Learning continuously. Building impactful AI solutions. Sharing knowledge through technology."**
+
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=jaimulhaque&style=for-the-badge)
