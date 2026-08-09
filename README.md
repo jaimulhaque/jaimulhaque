@@ -14,7 +14,12 @@
 </p>
 
 ---
-🔍 Bridging AI, Data, and Digital StorytellingI like to think of myself as an engineer with a creative soul. On the technical side, I’m wrapping up my CS degree and diving deep into AI Research (Medical Imaging & XAI) and Data Analytics. I love taking raw numbers and transforming them into strategies that businesses can actually use.On the creative side, I use video editing to create engaging educational content and football narratives. Whether it's training a PyTorch model or pacing a video edit, I thrive on curiosity, continuous learning, and impactful visualization
+# 🔍 Turning Raw Data into Real-World Stories
+
+As a final-year CSE student, I’ve always been fascinated by how data can solve real-world problems. I spend a lot of my time in the lab researching Computer Vision and Explainable AI, trying to make artificial intelligence more transparent and impactful. 
+
+When I’m away from my data dashboards (Power BI, SQL, Pandas), I’m usually editing videos. I love digital content creation, especially telling deep stories about football and education. I’m simply someone who loves to learn, visualize, and build things that matter.
+
 ---
 
 # 🔬 Research Interests
