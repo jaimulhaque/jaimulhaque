@@ -1,91 +1,162 @@
 <h1 align="center">Hi 👋, I'm Jaimul Haque</h1>
 
 <p align="center">
-  <img src="https://herokuapp.com" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+%26+Data+Science+Researcher;Data+Visualization+Specialist;SQL+%26+Python+Data+Analytics;Professional+Video+Editor" />
 </p>
 
 <p align="center">
-  <strong>Final Year CSE Student & Applied AI Researcher</strong><br>
-  Bridging the gap between raw data insights and advanced Deep Learning applications.
+  Passionate Data Analyst & Researcher focused on transforming raw data into actionable insights and conducting applied AI research.<br>
+  Specializing in Exploratory Data Analysis (EDA), Machine Learning/XAI Applications, and Data-Driven Problem Solving.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com"/>
+  <img src="https://komarev.com/ghpvc/?username=jaimulhaque&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚡ Quick Overview
+# 🚀 About Me
 
-- 🎓 **Academics:** Final Year B.Sc. in Computer Science & Engineering
-- 🔬 **Research:** Deep Learning in Healthcare, Medical Imaging & Explainable AI (XAI)
-- 📊 **Analytics:** Exploratory Data Analysis (EDA), Predictive Modeling & Dashboarding
-- 🎬 **Creative:** Professional Video Editor & Digital Content Creator (Football & Education)
+- 🎓 Final Year B.Sc. in Computer Science & Engineering
+- 📊 Aspiring **Data Analyst & AI Researcher** passionate about data-driven decisions and impactful research
+- 🔬 Active in **AI & Data Science Research**, focusing on Medical Imaging, Computer Vision & Explainable AI (XAI)
+- 💻 Proficient in **Python, SQL, Pandas, NumPy, Power BI, PyTorch, Excel & Git**
+- 📈 Focus Areas: **Exploratory Data Analysis (EDA), Research Methodology, Business Intelligence & Predictive Modeling**
+- 🎬 Professional **Video Editor** & Digital Content Creator
+- ⚽ Football Storytelling Creator
+- 📚 Education Content Creator
+- 🌱 Always learning, researching, visualizing, and improving
 
 ---
 
-### 🔬 Research Interests
+# 🔬 Research Interests
 
 - 🧠 **Explainable AI (XAI):** Model Interpretability & Grad-CAM Visualization
 - 🫁 **Medical Image Analysis:** Deep Learning Applications in Healthcare Diagnostics
-- 📊 **Applied Data Analytics:** Statistical modeling and data-driven pattern recognition
+- 📊 **Applied Data Analytics & Statistical Modeling:** Data-driven insights and pattern recognition
+- 📄 **Academic Publishing:** Working towards publishing impactful peer-reviewed research papers
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+# 🛠️ Tech Stack & Research Tools
 
-#### 📊 Data Analysis & BI
+### 📊 Data Analysis & Visualization
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" /><br><br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-#### 🤖 Machine Learning & Research
+### 🤖 Research & Machine Learning Frameworks
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=pytorch,anaconda" /><br><br>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explainable_AI-XAI-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Overleaf-47A248?style=for-the-badge&logo=overleaf&logoColor=white"/>
 </p>
 
-#### 🎬 Creative Suite & Tools
+### 💻 Analytics Environments & Tools
 <p align="left">
-  <img src="https://skillicons.dev" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+### 🎬 Creative Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-### 🌟 Featured Projects & Research
+# 🌟 Featured Projects & Research
 
-#### 🧠 [PneumoXNet: Explainable AI Framework](YOUR_REPO_LINK)
-> **Deep Learning for Pneumonia Detection using Chest X-rays**
-- Built custom Deep Learning architectures for high-accuracy diagnostic medical imaging.
-- Integrated **Grad-CAM (XAI)** to visualize class activation heatmaps for clinical validation.
-- Performed rigorous evaluation: ROC-AUC Curves, Precision, Recall, and Confusion Matrices.
-
-#### 📈 [E-Commerce Sales Performance Analytics](YOUR_REPO_LINK)
-> **End-to-End Data Analysis & Business Intelligence Dashboard**
-- Preprocessed and cleaned large transactional datasets using Python (Pandas) and SQL.
-- Designed an interactive multi-page **Power BI Dashboard** for executive revenue insights.
-
-#### 🔍 [Customer Churn & Behavioral Segmentation](YOUR_REPO_LINK)
-> **Advanced SQL Querying & Cohort Analysis**
-- Executed complex SQL queries (CTEs, Window Functions) to uncover customer churn patterns.
-- Developed data-backed retention strategies based on user behavioral data.
+### 📄 PneumoXNet (Research Project)
+> **A Deep Learning & Explainable AI Framework for Pneumonia Detection using Chest X-rays**
+- 🧠 Built and evaluated custom Deep Learning architectures for diagnostic medical imaging.
+- 🔥 Integrated **Grad-CAM (Explainable AI)** to visualize class activation heatmaps for radiological interpretation.
+- 📊 Performed rigorous statistical evaluation: ROC-AUC Curves, Precision, Recall, Confusion Matrix, and F1-Score analysis.
+- 📝 Structured codebase and dataset analysis with research publication methodology in mind.
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 E-Commerce Sales Performance & Customer Analytics
+> **End-to-End Data Analysis, SQL Querying & Power BI Dashboard**
+- 🧹 **Data Cleaning & Preprocessing:** Processed transactional dataset using Python (Pandas) and SQL.
+- 📊 **Exploratory Data Analysis (EDA):** Identified revenue drivers, purchase trends, and regional performance.
+- 💡 **Interactive Dashboard:** Designed a multi-page **Power BI Dashboard** for executive insights.
+
+---
+
+### 🔍 Customer Churn & Behavioral Segmentation Analysis
+> **Advanced SQL Querying & Business Intelligence**
+- 🗄️ Executed complex SQL queries (CTEs, Window Functions) to analyze user behavior.
+- 📉 Uncovered key indicators of customer churn and delivered data-backed retention strategies.
+
+---
+
+# 📈 GitHub Statistics & Summary
 
 <p align="center">
-  <img height="165" src="https://vercel.app" />
-  <img height="165" src="https://vercel.app" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaimulhaque&show_icons=true&theme=merko&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimulhaque&layout=compact&theme=merko&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaimulhaque&theme=merko&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaimulhaque&theme=github_dark"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+# 🏆 GitHub Highlights & Achievements
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://shields.io"/></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://shields.io"/></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io"/></a>
-  <a href="https://tiktok.com" target="_blank"><img src="https://shields.io"/></a>
-  <a href="https://tiktok.com" target="_blank"><img src="https://shields.io"/></a>
+  <img src="https://img.shields.io/badge/GitHub-Active_Contributor-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_AI_Research-2EA043?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visualization-Power_BI_%26_Python-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
+
+---
+
+# 🎯 2026 Goals
+
+- 📄 Publish Peer-Reviewed Research Paper(s) in AI / Applied Data Science
+- 🚀 Build 5+ End-to-End Data Analytics & BI Portfolio Projects
+- 📊 Master Advanced SQL Optimization, Power BI DAX & Statistical Modeling
+- 🌍 Open-Source Contributions to Analytics & Research Frameworks
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/starmediaaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Video_Editing_Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@jaimul.haque" target="_blank">
+    <img src="https://img.shields.io/badge/Football_Content-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@jaimulhaquee" target="_blank">
+    <img src="https://img.shields.io/badge/Education_Content-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@jaimulhaque2.0/featured" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge
