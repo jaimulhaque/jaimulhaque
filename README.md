@@ -105,24 +105,6 @@
 - 🗄️ Executed complex SQL queries (CTEs, Window Functions) to analyze user behavior.
 - 📉 Uncovered key indicators of customer churn and delivered data-backed retention strategies.
 
----
-
-# 📈 GitHub Statistics & Summary
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jaimulhaque&show_icons=true&theme=merko&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimulhaque&layout=compact&theme=merko&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaimulhaque&theme=merko&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaimulhaque&theme=github_dark"/>
-</p>
-
----
 
 # 🎯 2026 Goals
 
