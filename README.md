@@ -1,8 +1,6 @@
 <h1 align="center">Jaimul Haque</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Video+Editor;AI+%26+Data+Science+Researcher" />
-</p>
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+%26+Data+Science+Researcher;Data+Visualization+Specialist;SQL+%26+Python+Data+Analytics;Professional+Video+Editor" /></p>
 
 <p align="center">
 Final-year CSE student focused on data analytics and applied AI research.
