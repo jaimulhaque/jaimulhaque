@@ -15,17 +15,7 @@
 
 ---
 
-# 🚀 About Me
-
-- 🎓 Final Year B.Sc. in Computer Science & Engineering
-- 📊 Aspiring **Data Analyst & AI Researcher** passionate about data-driven decisions and impactful research
-- 🔬 Active in **AI & Data Science Research**, focusing on Medical Imaging, Computer Vision & Explainable AI (XAI)
-- 💻 Proficient in **Python, SQL, Pandas, NumPy, Power BI, PyTorch, Excel & Git**
-- 📈 Focus Areas: **Exploratory Data Analysis (EDA), Research Methodology, Business Intelligence & Predictive Modeling**
-- 🎬 Professional **Video Editor** & Digital Content Creator
-- ⚽ Football Storytelling Creator
-- 📚 Education Content Creator
-- 🌱 Always learning, researching, visualizing, and improving
+🎓 Computer Science & Engineering final-year student specializing in Data Analytics and AI Research. My work focuses on bridging the gap between complex AI models and real-world impact, particularly in Medical Imaging, Computer Vision, and Explainable AI (XAI).📊 On the data side, I transform raw numbers into strategic business insights using Python, SQL, Pandas, and Power BI. Beyond engineering, I am a digital storyteller—creating engaging content and football narratives through professional video editing.💡 Always eager to research, visualize, and build data-driven solutions.
 
 ---
 
