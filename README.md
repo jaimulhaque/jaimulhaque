@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <strong>Final Year Computer Science Student & Researcher</strong> specializing in Exploratory Data Analysis (EDA), Applied Machine Learning, and Explainable AI (XAI). Passionate about turning complex data into actionable business intelligence.
+  <strong>Final Year CSE Student & Applied AI Researcher</strong><br>
+  Bridging the gap between raw data insights and advanced Deep Learning applications.
 </p>
 
 <p align="center">
@@ -14,65 +15,72 @@
 
 ---
 
-### 🚀 About Me
+### ⚡ Quick Overview
 
-- 🎓 **Education:** Final Year B.Sc. in Computer Science & Engineering.
-- 🔬 **Core Focus:** AI & Data Science Research, focusing on Medical Imaging & Explainable AI (XAI).
-- 📊 **Analytics:** Proficient in data-driven decision-making, predictive modeling, and business intelligence.
-- 🎬 **Creative Side:** Professional Video Editor & Digital Content Creator (Football Analytics & Education).
+- 🎓 **Academics:** Final Year B.Sc. in Computer Science & Engineering
+- 🔬 **Research:** Deep Learning in Healthcare, Medical Imaging & Explainable AI (XAI)
+- 📊 **Analytics:** Exploratory Data Analysis (EDA), Predictive Modeling & Dashboarding
+- 🎬 **Creative:** Professional Video Editor & Digital Content Creator (Football & Education)
 
 ---
 
 ### 🔬 Research Interests
 
-- 🧠 **Explainable AI (XAI):** Model Interpretability & Grad-CAM Visualizations.
-- 🫁 **Medical Image Analysis:** Deep Learning frameworks for automated healthcare diagnostics.
-- 📊 **Statistical Modeling:** Applied data analytics and pattern recognition for academic research.
+- 🧠 **Explainable AI (XAI):** Model Interpretability & Grad-CAM Visualization
+- 🫁 **Medical Image Analysis:** Deep Learning Applications in Healthcare Diagnostics
+- 📊 **Applied Data Analytics:** Statistical modeling and data-driven pattern recognition
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Ecosystem
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data & Analytics** | Python • SQL (MySQL, PostgreSQL) • Pandas • NumPy • MS Excel |
-| **Machine Learning** | PyTorch • OpenCV • Explainable AI (XAI) Frameworks |
-| **BI & Visualization** | Power BI • Matplotlib • Seaborn |
-| **Environments & Git** | Git • GitHub • VS Code • Jupyter • Google Colab • Linux |
-| **Creative Suite** | Adobe Premiere Pro • After Effects • Photoshop • Lightroom |
+#### 📊 Data Analysis & BI
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+#### 🤖 Machine Learning & Research
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+#### 🎬 Creative Suite & Tools
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
 ---
 
 ### 🌟 Featured Projects & Research
 
-#### 📄 [PneumoXNet (Research Project)](YOUR_REPO_LINK)
-> **A Deep Learning & Explainable AI Framework for Pneumonia Detection**
-- Developed custom Deep Learning architectures for diagnostic chest X-ray interpretation.
-- Integrated **Grad-CAM (XAI)** to visualize class activation heatmaps for clinical transparency.
-- Evaluated performance using ROC-AUC Curves, Precision, Recall, and Confusion Matrices.
+#### 🧠 [PneumoXNet: Explainable AI Framework](YOUR_REPO_LINK)
+> **Deep Learning for Pneumonia Detection using Chest X-rays**
+- Built custom Deep Learning architectures for high-accuracy diagnostic medical imaging.
+- Integrated **Grad-CAM (XAI)** to visualize class activation heatmaps for clinical validation.
+- Performed rigorous evaluation: ROC-AUC Curves, Precision, Recall, and Confusion Matrices.
 
 #### 📈 [E-Commerce Sales Performance Analytics](YOUR_REPO_LINK)
-> **End-to-End Data Analysis & Business Intelligence**
-- Cleaned and preprocessed transactional datasets using Python (Pandas) and SQL.
-- Designed an interactive multi-page **Power BI Dashboard** tracking revenue drivers and regional trends.
+> **End-to-End Data Analysis & Business Intelligence Dashboard**
+- Preprocessed and cleaned large transactional datasets using Python (Pandas) and SQL.
+- Designed an interactive multi-page **Power BI Dashboard** for executive revenue insights.
 
 #### 🔍 [Customer Churn & Behavioral Segmentation](YOUR_REPO_LINK)
-> **Advanced SQL Querying for Customer Retention**
-- Utilized complex SQL (CTEs, Window Functions) to analyze user behavior drop-offs.
-- Delivered data-backed retention strategies based on behavioral cohort analysis.
+> **Advanced SQL Querying & Cohort Analysis**
+- Executed complex SQL queries (CTEs, Window Functions) to uncover customer churn patterns.
+- Developed data-backed retention strategies based on user behavioral data.
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://vercel.app" />
-  <img height="160" src="https://vercel.app" />
+  <img height="165" src="https://vercel.app" />
+  <img height="165" src="https://vercel.app" />
 </p>
 
 ---
 
-### 🌐 Connect & Creative Portfolios
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://shields.io"/></a>
