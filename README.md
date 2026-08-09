@@ -124,16 +124,6 @@
 
 ---
 
-# 🏆 GitHub Highlights & Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Active_Contributor-00C2FF?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_AI_Research-2EA043?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visualization-Power_BI_%26_Python-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - 📄 Publish Peer-Reviewed Research Paper(s) in AI / Applied Data Science
