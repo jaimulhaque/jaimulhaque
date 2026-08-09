@@ -1,17 +1,4 @@
-<h1 align="center">Jaimul Haque</h1>
-
-<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+%26+Data+Science+Researcher;Data+Visualization+Specialist;SQL+%26+Python+Data+Analytics;Professional+Video+Editor" /></p>
-
-<p align="center">
-Final-year CSE student focused on data analytics and applied AI research.
-Experienced in exploratory data analysis, SQL-based reporting, and machine learning / explainable AI (XAI) for medical imaging.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaimulhaque&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-</p>
-
----
+<h1 align="center">Jaimul Haque</h1> <p align="center">  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;AI+%26+Data+Science+Researcher;Data+Visualization+Specialist;SQL+%26+Python+Data+Analytics;Professional+Video+Editor" /></p> <p align="center">  Passionate Data Analyst & Researcher focused on transforming raw data into actionable insights and conducting applied AI research.<br>  Specializing in Exploratory Data Analysis (EDA), Machine Learning/XAI Applications, and Data-Driven Problem Solving.</p> <p align="center">  <img src="https://komarev.com/ghpvc/?username=jaimulhaque&label=Profile%20Views&color=0e75b6&style=for-the-badge"/></p> 
 
 ## 🔬 Research Interests
 - Explainable AI (XAI) — Model Interpretability & Grad-CAM Visualization
