@@ -17,19 +17,7 @@
 
 ---
 
-## 📁 Projects
 
-### PneumoXNet — Pneumonia Detection with Explainable AI
-Deep learning framework for pneumonia detection from chest X-rays, using Grad-CAM to visualize model decisions for radiological interpretation. Evaluated with ROC-AUC, Precision, Recall, and F1-Score.
-🔗 [Pneumonia-MultiModel-XAI](https://github.com/jaimulhaque/Pneumonia-MultiModel-XAI)
-
-### Healthcare Data Analytics
-Exploratory data analysis and reporting on healthcare data using Python and SQL, surfacing trends and actionable insights through visualization.
-🔗 [healthcare-data-analytics](https://github.com/jaimulhaque/healthcare-data-analytics)
-
-### Student Counseling Management System (SCMS)
-A management system built to streamline student counseling records and workflows.
-🔗 [Student-Counseling-Management-System-SCMS](https://github.com/jaimulhaque/-Student-Counseling-Management-System-SCMS-)
 
 ---
 
